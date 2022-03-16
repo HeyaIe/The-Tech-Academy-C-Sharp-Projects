@@ -1,0 +1,7 @@
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MathAndCompairsonOperators\MathAndCompairsonOperators\bin\Debug\MathAndCompairsonOperators.exe.config
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MathAndCompairsonOperators\MathAndCompairsonOperators\bin\Debug\MathAndCompairsonOperators.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MathAndCompairsonOperators\MathAndCompairsonOperators\bin\Debug\MathAndCompairsonOperators.pdb
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MathAndCompairsonOperators\MathAndCompairsonOperators\obj\Debug\MathAndCompairsonOperators.csproj.AssemblyReference.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MathAndCompairsonOperators\MathAndCompairsonOperators\obj\Debug\MathAndCompairsonOperators.csproj.CoreCompileInputs.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MathAndCompairsonOperators\MathAndCompairsonOperators\obj\Debug\MathAndCompairsonOperators.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MathAndCompairsonOperators\MathAndCompairsonOperators\obj\Debug\MathAndCompairsonOperators.pdb
