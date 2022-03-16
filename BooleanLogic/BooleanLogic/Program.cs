@@ -30,7 +30,7 @@ namespace BooleanLogic
             Console.WriteLine("Qualified?");
 
             // Qualification process
-            Console.WriteLine(age > 15 && isDUI == false && tickets <= 4);
+            Console.WriteLine(age > 15 && isDUI == false && tickets < 4);
 
             Console.ReadLine();
         }
