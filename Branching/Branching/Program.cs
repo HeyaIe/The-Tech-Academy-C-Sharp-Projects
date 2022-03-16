@@ -44,7 +44,7 @@ namespace Branching
                     quote /= 100;
                     
                     // Display quote
-                    Console.WriteLine("Your estimated total for shipping this package is: " + Math.Round(quote, 2));
+                    Console.WriteLine("Your estimated total for shipping this package is: " + Math.Round(quote, 2) + "\nThank you!");
                 }
             }
             Console.ReadLine();
