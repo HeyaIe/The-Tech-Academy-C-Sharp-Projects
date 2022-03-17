@@ -1,0 +1,6 @@
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Strings\Strings\obj\Debug\Strings.pdb
