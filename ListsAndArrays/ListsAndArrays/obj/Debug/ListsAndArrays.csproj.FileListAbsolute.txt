@@ -1,0 +1,7 @@
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ListsAndArrays\ListsAndArrays\bin\Debug\ListsAndArrays.exe.config
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ListsAndArrays\ListsAndArrays\bin\Debug\ListsAndArrays.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ListsAndArrays\ListsAndArrays\bin\Debug\ListsAndArrays.pdb
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ListsAndArrays\ListsAndArrays\obj\Debug\ListsAndArrays.csproj.AssemblyReference.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ListsAndArrays\ListsAndArrays\obj\Debug\ListsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ListsAndArrays\ListsAndArrays\obj\Debug\ListsAndArrays.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ListsAndArrays\ListsAndArrays\obj\Debug\ListsAndArrays.pdb
