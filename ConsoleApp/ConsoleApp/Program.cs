@@ -50,6 +50,7 @@ namespace ConsoleApp
                         break;
                     default:
                         Console.WriteLine("Please enter \"yes\" or \"no\".");
+                        response = "no";
                         break;
                 }
             }
