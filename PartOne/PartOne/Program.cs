@@ -146,15 +146,15 @@ namespace PartOne
 
             foreach(string word in strList2)
             {
-                if (!strList3.Contains("String: " + word))
+                if (strList3.Contains(word))
                 {
-                    // If new list does not contain the string above, add it.
-                    strList3.Add("String: " + word);
+                    // Add a message to the word that's been displayed before
+                    strList3.Add(word + message);
                 }
                 else
                 {
-                    // Display message if string has been displayed before.
-                    strList3.Add("String: " + word + message);
+                    // Add word to list
+                    strList3.Add(word);
                 }
             }
 
