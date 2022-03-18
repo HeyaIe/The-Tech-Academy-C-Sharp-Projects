@@ -1,0 +1,7 @@
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\PartOne\PartOne\bin\Debug\PartOne.exe.config
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\PartOne\PartOne\bin\Debug\PartOne.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\PartOne\PartOne\bin\Debug\PartOne.pdb
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\PartOne\PartOne\obj\Debug\PartOne.csproj.AssemblyReference.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\PartOne\PartOne\obj\Debug\PartOne.csproj.CoreCompileInputs.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\PartOne\PartOne\obj\Debug\PartOne.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\PartOne\PartOne\obj\Debug\PartOne.pdb
