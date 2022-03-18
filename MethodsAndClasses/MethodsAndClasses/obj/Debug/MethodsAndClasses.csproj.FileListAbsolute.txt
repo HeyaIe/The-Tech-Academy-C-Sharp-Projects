@@ -1,0 +1,7 @@
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodsAndClasses\MethodsAndClasses\bin\Debug\MethodsAndClasses.exe.config
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodsAndClasses\MethodsAndClasses\bin\Debug\MethodsAndClasses.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodsAndClasses\MethodsAndClasses\bin\Debug\MethodsAndClasses.pdb
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.csproj.AssemblyReference.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.exe
+C:\Users\chawa\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.pdb
