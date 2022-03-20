@@ -12,9 +12,9 @@ namespace OverloadingMethods
         {
             return num1 * num2;
         }
-        public decimal operation(decimal num1, decimal num2)
+        public int operation(decimal num1, decimal num2)
         {
-            return num1 / num2;
+            return Convert.ToInt32(num1/num2);
         }
         public int operation(string num1, string num2)
         {
