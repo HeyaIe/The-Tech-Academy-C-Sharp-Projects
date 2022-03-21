@@ -17,6 +17,8 @@ namespace OverloadingOperator
             Employee person1 = new Employee() { firstName = "Bryan", Id = 13 };
             Employee person2 = new Employee() { firstName = "Sam", Id = 1 };
 
+            Console.WriteLine("Does person1 == person2: ");
+
             // Calling overloaded == operator
             Console.WriteLine(person1 == person2);
 

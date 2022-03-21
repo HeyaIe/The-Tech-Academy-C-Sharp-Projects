@@ -12,36 +12,11 @@ namespace OverloadingOperator
 
         public static bool operator==(Employee employee1, Employee employee2)
         {
-            if(employee1.Id == employee2.Id)
-            {
-                Console.WriteLine("{0} and {1} are the same person.", employee1.firstName, employee2.firstName);
-                return true;
-            }
-            else
-            {
-                Console.WriteLine("{0} and {1} are not the same person.", employee1.firstName, employee2.firstName);
-                return false;
-            }
+            return employee1.Id == employee2.Id;
         }
         public static bool operator!=(Employee employee1, Employee employee2)
         {
-            if(employee1.Id != employee2.Id)
-            {
-                Console.WriteLine("{0} and {1} are not the same person.", employee1.firstName, employee2.firstName);
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-        public override bool Equals(object obj)
-        {
-            return base.Equals(obj);
-        }
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
+            return employee1.Id != employee2.Id;
         }
     }
 }
