@@ -1,0 +1,7 @@
+C:\Users\chawa\source\repos\OverloadingOperator\OverloadingOperator\bin\Debug\OverloadingOperator.exe.config
+C:\Users\chawa\source\repos\OverloadingOperator\OverloadingOperator\bin\Debug\OverloadingOperator.exe
+C:\Users\chawa\source\repos\OverloadingOperator\OverloadingOperator\bin\Debug\OverloadingOperator.pdb
+C:\Users\chawa\source\repos\OverloadingOperator\OverloadingOperator\obj\Debug\OverloadingOperator.csproj.AssemblyReference.cache
+C:\Users\chawa\source\repos\OverloadingOperator\OverloadingOperator\obj\Debug\OverloadingOperator.csproj.CoreCompileInputs.cache
+C:\Users\chawa\source\repos\OverloadingOperator\OverloadingOperator\obj\Debug\OverloadingOperator.exe
+C:\Users\chawa\source\repos\OverloadingOperator\OverloadingOperator\obj\Debug\OverloadingOperator.pdb
