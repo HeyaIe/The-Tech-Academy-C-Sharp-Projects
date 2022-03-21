@@ -15,6 +15,10 @@ namespace AbstractAssignment
             // Call overridden method
             em.sayName();
 
+            // Using polymorphism to create an object
+            IQuittable em1 = new Employee() { firstName = "Sam", lastName = "Stu" };
+            em1.Quit();
+
             Console.Read();
         }
     }
