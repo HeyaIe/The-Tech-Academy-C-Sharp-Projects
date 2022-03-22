@@ -49,6 +49,18 @@ namespace Lambda
                 Console.WriteLine("{0} {1}", em.fName, em.lName);
             }
 
+            // Initialize a new list with the condition of ID numbers greater than 5
+            List<Employee> newEmList2 = emList.Where(x => x.Id > 5).ToList();
+
+            Console.WriteLine("\nList of employees with ID no. greater than 5.");
+            Console.WriteLine("---------------------------------------------------\n");
+
+            // Display newEmList2
+            foreach(Employee em in newEmList2)
+            {
+                Console.WriteLine("{0} - ID {1}", em.fName, em.Id);
+            }
+
             Console.Read();
         }
     }
