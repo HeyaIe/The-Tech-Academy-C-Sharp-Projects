@@ -18,6 +18,7 @@ namespace Enums
 
             try
             {
+                // Parse input as type (DaysOfTheWeek), assign it to day
                 DaysOfTheWeek day = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), Console.ReadLine());
                 Console.WriteLine(day);
             }
