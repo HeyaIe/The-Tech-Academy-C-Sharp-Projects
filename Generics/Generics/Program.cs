@@ -13,20 +13,20 @@ namespace Generics
             // Introduction
             Console.WriteLine("Generics");
 
-            // Instantiate employee object
+            // Instantiate employee objects
             Employee<string> em1 = new Employee<string>();
-            em1.things = new List<string>() { "screws", "powerdrill", "workbench", "tracksaw", "marker" };
+            em1.things = new List<string>() { "screws", "powerdrill", "tracksaw", "workbench", "marker" };
 
             Employee<int> em2 = new Employee<int>();
-            em2.things = new List<int>() { 1, 10, 23, 21, 16, 4 };
+            em2.things = new List<int>() { 1, 3, 10, 20, 23, 15, 4 };
 
-            // Display list
+            // Display items
             Console.WriteLine("\nEmployee 1");
-            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine("-------------------------------");
             em1.listItems();
 
             Console.WriteLine("\nEmployee 2");
-            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine("-------------------------------");
             em2.listItems();
 
             Console.Read();
